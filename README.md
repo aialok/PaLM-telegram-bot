@@ -1,6 +1,9 @@
 
 # Welcome to AMA Telegram-bot
 
+- Welcome to the AMA Telegram bot – your one-stop source of information powered by advanced chatbot capabilities similar to GPT-3.5.
+
+
 ## Project Setup
 
 - Clone the Project on your local 
