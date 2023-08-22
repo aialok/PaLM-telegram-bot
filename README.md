@@ -1,7 +1,7 @@
 
 # Welcome to AMA Telegram-bot
 
-- Welcome to the AMA Telegram bot – your one-stop source of information powered by advanced chatbot capabilities similar to GPT-3.5.
+**Welcome to the AMA Telegram bot – your one-stop source of information powered by advanced chatbot capabilities similar to GPT-3.5.**
 
 
 ## Project Setup
@@ -18,11 +18,12 @@
 
 
 
+![Example](https://github.com/aialok/PaLM-telegram-bot/assets/66772290/e83f0e7a-56ad-40d7-b0ef-112358338beb)
 
 
 
 ## Tech Stack
 
-**Backend:** `node.js`
+-  `node.js`
 
 
